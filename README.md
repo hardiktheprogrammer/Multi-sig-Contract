@@ -25,4 +25,4 @@ Multi Sig Smart Contract
 
 - Ethereum
 - Polygon
-- Other Comming Soons
+- Other Comming Soons (Binance Smart Chain , Arbitrum)
