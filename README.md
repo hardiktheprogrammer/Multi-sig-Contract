@@ -20,3 +20,9 @@ Multi Sig Smart Contract
 - Integration with DeFi Protocols (market platforms)
 - Event Notifications and Alerts
 - Documentation and Support  
+
+# support Chains: 
+
+- Ethereum
+- Polygon
+- Other Comming Soons
