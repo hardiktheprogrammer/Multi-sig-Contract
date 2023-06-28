@@ -5,7 +5,7 @@ Multi Sig Smart Contract
 - Customizable Signer Configuration
 - Time-Lock Mechanism
 - Offline Signing Support
-- Detailed Transaction Proposals
+- Detailed Transaction Proposals 
  // - User Registration 
 - Multisig Wallet Integration
 - Multiple Signers and Threshold
